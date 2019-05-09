@@ -10,3 +10,4 @@ task :hola do
 end 
 end
 
+namespace :db do 
